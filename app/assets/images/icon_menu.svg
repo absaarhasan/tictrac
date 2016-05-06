@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="30" height="17" viewBox="0 0 30 17">
+  <defs>
+    <style>
+
+      .cls-3 {
+        fill: #ffffff;
+      }
+    </style>
+  </defs>
+  <g id="menu-normalsvg">
+    <rect id="rect-1" class="cls-3" y="14" width="30" height="3"/>
+    <rect id="rect-2" class="cls-3" y="7" width="30" height="3"/>
+    <rect id="rect-3" class="cls-3" width="30" height="3"/>
+  </g>
+</svg>

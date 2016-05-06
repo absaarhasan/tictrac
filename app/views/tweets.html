@@ -1,0 +1,10 @@
+<section class="tweets">
+    <ul>
+        <li ng-repeat="tweet in vm.tweets">
+            <img class="thumb" ng-src="{{tweet.thumb}}" />
+            <span class="date" ng-bind="tweet.date"></span>
+            <h2><span class="name" ng-bind="tweet.username">/span>></span><span class="handle" ng-bind="tweet.handle | lowercase">/span></h2>
+            <p ng-bind="tweet.msg">Some text goes here, some text goes here.</p>
+        </li>
+    </ul>
+</section>
